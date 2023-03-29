@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Student"
+
 permalink: /cv/
 author_profile: true
 redirect_from:

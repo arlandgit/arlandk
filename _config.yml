@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Main"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Aroland Kiring"
 description              : &description "personal description"
 url                      : https://arlandgit.github.io/arlandk # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Aroland Kiring"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  bio              : "Senior Lecturer, Member of IEEE, Graduate Member of BEM"
+  location         : "Kota Kinabalu, Sabah, Malaysia"
+  employer         : "Universiti Malaysia Sabah"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com.my/citations?hl=en&user=OHBjWOAAAAAJ&view_op=list_works&sortby=pubdate"
+  email            : "arland@ums.edu.my"
+  researchgate     : "https://www.researchgate.net/profile/Aroland-Kiring-2"
   uri              :
   bitbucket        :
   codepen          :
@@ -100,16 +100,16 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "linkedin.com/in/aroland-kiring-83a3b9267"
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :

@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Main"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Aroland Kiring"
 description              : &description "personal description"
@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "Senior Lecturer, Member of IEEE, Graduate Member of BEM"
   location         : "Kota Kinabalu, Sabah, Malaysia"
-  employer         : "Universiti Malaysia Sabah"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com.my/citations?hl=en&user=OHBjWOAAAAAJ&view_op=list_works&sortby=pubdate"
   email            : "arland@ums.edu.my"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :

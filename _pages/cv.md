@@ -10,11 +10,11 @@ redirect_from:
 {% include base_path %}
 
 Postgraduate Students
-==
+=
 * Mohamed Aizad bin Mohamed Ghazali, M.Eng., "Accurate Positioning Algorithm for Patient Tracking in Indoor Wireless Networks Using Adaptive Non-Gaussian Particle Filters", 2022-2024
 
 Undergraduate Students
-======
+=
 * Bill Acherllys Jailis, "IoT Based Beehive Monitoring System", 2021-2022
 * Luthais Tseu Wen Zheng, "Wi-Fi based Indoor Positioning using Particle Filter Method", 2020-2021
 * Choong Kok Wai, "Construction of WiFi Radio Map using Inverse Distance Weighting for an Indoor Positioning System", 2020-2021

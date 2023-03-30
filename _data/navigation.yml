@@ -1,7 +1,7 @@
 # main links links
 main:
   - {title: "Publications", url: /publications/}
-  - {title: "Students", url: /cv/}
+  - {title: "Students", url: /student/}
     
 
 

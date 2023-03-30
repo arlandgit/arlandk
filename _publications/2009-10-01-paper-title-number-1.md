@@ -7,7 +7,7 @@ venue: 'IEEE Sensors Journal'
 paperurl: 'https://ieeexplore.ieee.org/document/7888926'
 citation: 'A. Kiring, N. Salman, C. Liu, I.Esnaola, and L. Mihaylova, &quot;Tracking with Sparse and Correlated Measurements via a Shringkage-based Particle Filter.&quot; <i>IEEE Sensors J.</i>. vol. 17, no. 10, pp. 3152-3164, May. 2017'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+
 
 [Download paper here](http://academicpages.github.io/files/paper2.pdf)
 

@@ -1,11 +1,11 @@
 ---
-title: "Tracking with Sparse and Correlated Measurements via a Shringkage-based Particle Filter"
+title: "Wi-Fi radio map interpolation with sparse and correlated received signal strength measurements for indoor positioning"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-date: 2017-05-01
-excerpt: 'A. Kiring, N. Salman, C. Liu, I.Esnaola, and L. Mihaylova, &quot;Tracking with Sparse and Correlated Measurements via a Shringkage-based Particle Filter.&quot; <i>IEEE Sensors J.</i>. vol. 17, no. 10, pp. 3152-3164, May. 2017'
-venue: 'IEEE Sensors Journal'
-paperurl: 'https://ieeexplore.ieee.org/document/7888926'
+permalink: /publication/2020(1)
+date: 2020-09-26
+excerpt: 'A. Kiring, H.T. Yew, Y.Y Farm, S.K Chung, F. Wong, A. Chekima, &quot;Wi-Fi radio map interpolation with sparse and correlated received signal strength measurements for indoor positioning,&quot; <i>in IEEE 2nd Int. Conf. on Artificial Intelligence in Eng. and Tech.,</i>. vol. 17, no. 10, pp. 3152-3164, May. 2017'
+venue: 'IEEE 2nd International Conference on Artificial Intelligence in Engineering and Technology (IICAIET)'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/9257857'
 citation: 
 ---
 

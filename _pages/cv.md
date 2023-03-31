@@ -38,8 +38,8 @@ Undergraduate Supervision (Final Year Project)
 
 Teaching
 =
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* KS10803 Differential Equations & Linear ALgebra
+* KS22103 Probability and Random Processes
+
   
   

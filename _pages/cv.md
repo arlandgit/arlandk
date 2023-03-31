@@ -1,6 +1,6 @@
 ---
 layout: archive
-
+title: "Students"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,11 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-Postgraduate Students
+Postgraduate Supervision (Ph.D & M.Eng)
 =
 * Mohamed Aizad bin Mohamed Ghazali, M.Eng., "Accurate Positioning Algorithm for Patient Tracking in Indoor Wireless Networks Using Adaptive Non-Gaussian Particle Filters", 2022-2024
 
-Undergraduate Students
+Undergraduate Supervision (Final Year Project)
 =
 * Bill Acherllys Jailis, "IoT Based Beehive Monitoring System", 2021-2022
 * Luthais Tseu Wen Zheng, "Wi-Fi based Indoor Positioning using Particle Filter Method", 2020-2021

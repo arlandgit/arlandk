@@ -34,3 +34,12 @@ Undergraduate Supervision (Final Year Project)
 * Dominic Lee Chee Kien, "Development of PCB Etching System - Water Level", 2011-2012
 * Angela Tie Chou Yien, "Automation Identification Diabetic Retinopathy via Image Retina Processing", 2011-2012
 * Lim Pet Shiang, "Identification of Tree via Digital Leaf Image Processing", 2011-2012
+
+
+Teaching
+=
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+  

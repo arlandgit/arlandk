@@ -7,11 +7,11 @@ redirect_from:
   - /markdown.html
 ---
 
-## External Research Grant
+## External Grant
 
 * Basic config options: _config.yml
 
 
-## Internal Research Grant
+## Internal Grant
 
 * Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.

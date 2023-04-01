@@ -2,7 +2,7 @@
 main:
   - {title: "Publications", url: /publications/}
   - {title: "Students", url: /cv/}
-  - {title: "Guide", url: /markdown/}
+  - {title: "Grants", url: /markdown/}
     
 
 

@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Profile"
 title_separator          : "-"
 name                     : &name "Aroland Kiring"
 description              : &description "personal description"

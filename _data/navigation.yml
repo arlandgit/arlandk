@@ -2,6 +2,7 @@
 main:
   - {title: "Publications", url: /publications/}
   - {title: "Students", url: /cv/}
+  - {title: "Guide", url: /markdown/}
     
 
 
@@ -19,5 +20,4 @@ main:
     
  
     
-#  - title: "Guide"
- #   url: /markdown/
+

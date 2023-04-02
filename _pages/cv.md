@@ -36,7 +36,7 @@ Undergraduate Supervision (Final Year Project)
 * Lim Pet Shiang, "Identification of Tree via Digital Leaf Image Processing", 2011-2012
 
 
-Teaching
+Teaching Activities
 =
 * KS10803 Differential Equations & Linear ALgebra
 * KS22103 Probability and Random Processes

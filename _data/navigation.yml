@@ -3,7 +3,7 @@ main:
   - {title: "Publications", url: /publications/}
   - {title: "Grants", url: /markdown/}
   - {title: "Students", url: /cv/}
-  
+  - {title: "Blog Posts", url: /year-archive/}
     
 
 
@@ -16,8 +16,7 @@ main:
 #  - title: "Portfolio"
 #    url: /portfolio/
         
-#  - title: "Blog Posts"
- #   url: /year-archive/
+
     
  
     

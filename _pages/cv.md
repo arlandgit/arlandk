@@ -9,12 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-Postgraduate Supervision (Ph.D & M.Eng)
-=
+## Postgraduate Supervision (Ph.D & M.Eng)
+
 * Mohamed Aizad bin Mohamed Ghazali, M.Eng., "Accurate Positioning Algorithm for Patient Tracking in Indoor Wireless Networks Using Adaptive Non-Gaussian Particle Filters", 2022-2024
 
-Undergraduate Supervision (Final Year Project)
-=
+## Undergraduate Supervision (Final Year Project)
+
 * Bill Acherllys Jailis, "IoT Based Beehive Monitoring System", 2021-2022
 * Luthais Tseu Wen Zheng, "Wi-Fi based Indoor Positioning using Particle Filter Method", 2020-2021
 * Choong Kok Wai, "Construction of WiFi Radio Map using Inverse Distance Weighting for an Indoor Positioning System", 2020-2021
@@ -36,8 +36,8 @@ Undergraduate Supervision (Final Year Project)
 * Lim Pet Shiang, "Identification of Tree via Digital Leaf Image Processing", 2011-2012
 
 
-Teaching Activities
-=
+## Teaching Activities
+
 * KS10803 Differential Equations & Linear ALgebra
 * KS22103 Probability and Random Processes
 

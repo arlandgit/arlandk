@@ -13,9 +13,7 @@ I received my B.Eng. degree in electronic and computer engineering from the Univ
 </p>
   
 ## Profesional Activities & Memberships
+* Treasurer, IEEE Malaysia Sabah Subsection, 2023-2024.
 * Finance Chair, 4th IEEE International Conference on Artificial Intelligence in Engineering and Technology, 13-15 Sept. 2022.
 * Finance Chair, 3rd IEEE International Conference on Artificial Intelligence in Engineering and Technology, 13-15 Sept. 2021.
-
-
-
-
+* Community Chair, IEEE Malaysia Sabah Subsection, 2021-2022.

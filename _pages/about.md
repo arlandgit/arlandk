@@ -18,9 +18,8 @@ My research interests primarily focus on estimation theory and communication the
 </p>
 
 ## Profesional Activities & Memberships
-<p align="justify"> 
 * Treasurer, IEEE Malaysia Sabah Subsection, 2023-2024.
 * Finance Chair, 4th IEEE International Conference on Artificial Intelligence in Engineering and Technology, 13-15 Sept. 2022.
 * Community Chair, IEEE Malaysia Sabah Subsection, 2021-2022.
 * Finance Chair, 3rd IEEE International Conference on Artificial Intelligence in Engineering and Technology, 13-15 Sept. 2021.
-</p>
+

@@ -23,3 +23,7 @@ My research interests primarily focus on estimation theory and communication the
 * Community Chair, IEEE Malaysia Sabah Subsection, 2021-2022.
 * Finance Chair, 3rd IEEE International Conference on Artificial Intelligence in Engineering and Technology, 13-15 Sept. 2021.
 
+## Teaching Activities
+
+* KS10803 Differential Equations & Linear ALgebra
+* KS22103 Probability and Random Processes

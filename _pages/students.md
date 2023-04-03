@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: Students
-permalink: /cv/
+permalink: /students/
 author_profile: true
 redirect_from:
   - /resume

@@ -25,5 +25,5 @@ My research interests primarily focus on estimation theory and communication the
 
 ## Teaching Activities
 
-* KS10803 Differential Equations & Linear ALgebra
+* KS10803 Differential Equations & Linear Algebra
 * KS22103 Probability and Random Processes

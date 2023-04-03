@@ -34,12 +34,3 @@ redirect_from:
 * Dominic Lee Chee Kien, "Development of PCB Etching System - Water Level", 2011-2012
 * Angela Tie Chou Yien, "Automation Identification Diabetic Retinopathy via Image Retina Processing", 2011-2012
 * Lim Pet Shiang, "Identification of Tree via Digital Leaf Image Processing", 2011-2012
-
-
-## Teaching Activities
-
-* KS10803 Differential Equations & Linear ALgebra
-* KS22103 Probability and Random Processes
-
-  
-  

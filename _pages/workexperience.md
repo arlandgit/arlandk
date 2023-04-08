@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: Students
+title: Working Experience
 permalink: /workexperience/
 author_profile: true
 redirect_from:

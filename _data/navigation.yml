@@ -3,6 +3,9 @@ main:
   - {title: "Publications", url: /publications/}
   - {title: "Grants", url: /grants/}
   - {title: "Students", url: /students/}
+  - {title: "Work Experiences", url: /workexperience/}
+  
+  
 #  - {title: "Blog Posts", url: /year-archive/}
     
 

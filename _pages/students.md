@@ -10,9 +10,9 @@ redirect_from:
 {% include base_path %}
 
 ## Postgraduate Supervision (Ph.D & M.Eng)
-* 2022-Present, Mohamed Aizad bin Mohamed Ghazali, M.Eng., "Accurate Positioning Algorithm for Patient Tracking in Indoor Wireless Networks Using Adaptive Non-Gaussian Particle Filters", Main Suprvisor.
-* 2022-Present, Nurul Aimee Izzaty binti Mohd Nizam, M.Eng., Co-Supervisor.
-* 2020-Present, Mark Irwin Goh, M.Eng., Co-Supervisor.
+* 2022-present, Mohamed Aizad bin Mohamed Ghazali, M.Eng., "Accurate Positioning Algorithm for Patient Tracking in Indoor Wireless Networks Using Adaptive Non-Gaussian Particle Filters", Main Suprvisor.
+* 2022-present, Nurul Aimee Izzaty binti Mohd Nizam, M.Eng., Co-Supervisor.
+* 2020-present, Mark Irwin Goh, M.Eng., Co-Supervisor.
 
 ## Undergraduate Supervision (Final Year Project)
 * 2022-2023, Mohd Syafiq Daniel bin Wahab, "An Empirical Approach to Building Accurate WiFi Radio Maps using ZigBee Sensor Networks in Indoor Environments".

@@ -16,7 +16,7 @@ redirect_from:
 * Sept. 2014 - Apr. 2018, Pursuing Ph.D. in Automatic Control and System Engineering at the University of Sheffield, UK.
   
 
-* Feb. 2010 - Apr. 2019, Job Position: Lecturer, Company: Universiti Malaysia Sabah 
+* Dec. 2009 - Apr. 2019, Job Position: Lecturer, Company: Universiti Malaysia Sabah 
   <p align="justify"> Job Description: teaching, supervising, researching, publishing, consultancy, outreaching, and administrating.
   
 

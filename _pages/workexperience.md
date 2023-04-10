@@ -23,7 +23,7 @@ redirect_from:
 * Sept. 2008 - Oct. 2009, Pursuing MSc. in Electronic Communication and Computer Engineering at the University of Nottingham, UK.
   
   
-* Feb. 2008 - Jan. 2010, Job Position: Tutor, Company: Universiti Malaysia Sabah 
+* Feb. 2008 - Nov. 2009, Job Position: Tutor, Company: Universiti Malaysia Sabah 
   <p align="justify"> Job Description: provides academic supports for students such as arranging for tutorial class, checking and marking students’ examination papers, and lab demonstrations.
 
   

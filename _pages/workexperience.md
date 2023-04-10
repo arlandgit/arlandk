@@ -32,12 +32,20 @@ redirect_from:
 
 
 # Teaching Experience
-* Probability and Random Process, 2021 - present
-* Differential Equations and Linear Algebra, 2019 - present
-* Electric Circuit Analysis, 2019 - 2021
-* Electromganetics, 2021
-* Discrete Mathematics, 2019 - 2022
-* Analogue Electronics, 2019 - 2020
+* 2021 - present, Probability and Random Process.
+* 2019 - present, Differential Equations and Linear Algebra.
+* 2021 - 2022, Electromganetics.
+* 2019 - 2021, Electric Circuit Analysis.
+* 2019 - 2022, Discrete Mathematics.
+* 2019 - 2020, Analogue Electronics.
+* 2013 - 2014, Differential Equations and Linear Algebra.
+* 2013 - 2014, Signal Processing Laboratory.
+* 2012 - 2014, Elecronics and Circuit Laboratory.
+* 2011 - 2014, Electronics and Electrical Technology.
+* 2011 - 2014, Coordinator Final Year Project I.
+* 2010 - 2014, Coordinator Final Year Project II.
+* 2010 - 2012, Electric Machine and Drives.
+
     
     
     

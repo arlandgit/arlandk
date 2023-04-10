@@ -19,7 +19,7 @@ My research interests primarily focus on estimation theory and communication the
 
 ## Leaderships, Profesional Activities & Memberships
 * May 2020 - May 2024, Head of Electronic Engineering (Computer) Program, Faculty of Engineering, Universiti Malaysia Sabah.
-* 2023 - 2004, Treasurer, IEEE Malaysia Sabah Subsection.
+* 2023 - 2024, Treasurer, IEEE Malaysia Sabah Subsection.
 * 2022, Finance Chair, 4th IEEE International Conference on Artificial Intelligence in Engineering and Technology, 13-15 Sept. 2022.
 * 2021 - 2022, Community Chair, IEEE Malaysia Sabah Subsection.
 * 2021, Finance Chair, 3rd IEEE International Conference on Artificial Intelligence in Engineering and Technology, 13-15 Sept. 2021.

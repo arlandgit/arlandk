@@ -26,7 +26,7 @@ My research interests primarily focus on estimation theory and communication the
 * 2010 - present, Graduate Member, Board of Engineering (BEM) Malaysia.
 
 ## Leadership, Management, & Attended Courses
-* May 2020 - May 2024, Head of Electronic Engineering (Computer) Program, Faculty of Engineering, Universiti Malaysia Sabah.
+* May 2022 - May 2024, Head of Electronic Engineering (Computer) Program, Faculty of Engineering, Universiti Malaysia Sabah.
 * 04 July. 2013 - Member, 2013 Student Orientation Committee, Faculty of Engineering, Universiti Malaysia Sabah.
 * 13 Apr. 2011 - Member, 2011 Student Orientation Committee, Faculty of Engineering, Universiti Malaysia Sabah.
 * 03 Mar. 2010 - Member, 2010 Student Orientation Committee, Faculty of Engineering, Universiti Malaysia Sabah.

@@ -27,6 +27,8 @@ My research interests primarily focus on estimation theory and communication the
 
 ## Leadership, Management, & Attended Courses
 * May 2022 - May 2024, Head of Electronic Engineering (Computer) Program, Faculty of Engineering, Universiti Malaysia Sabah.
+* Jan. 2019 - Dec. 2021, Advisor for Computer Engineering Club, Faculty of Engineering, Universiti Malaysia Sabah.
+* Dec. 2019 - Nov. 2021, Coordinator FKJ Website, Faculty of Engineering, Universiti Malaysia Sabah.
 * 04 July. 2013 - Member, 2013 Student Orientation Committee, Faculty of Engineering, Universiti Malaysia Sabah.
 * 13 Apr. 2011 - Member, 2011 Student Orientation Committee, Faculty of Engineering, Universiti Malaysia Sabah.
 * 03 Mar. 2010 - Member, 2010 Student Orientation Committee, Faculty of Engineering, Universiti Malaysia Sabah.

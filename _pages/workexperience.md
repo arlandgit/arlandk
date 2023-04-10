@@ -32,6 +32,16 @@ redirect_from:
 
 
 # Teaching Experience
+    * Probability and Random Process, 2021 - present
+    * Differential Equations and Linear Algebra, 2019 - present
+    * Electric Circuit Analysis, 2019 - 2021
+    * Electromganetics, 2021
+    * Discrete Mathematics, 2019 - 2022
+    * Analogue Electronics, 2019 - 2020
+    
+    
+    
+    
 
 
 

@@ -23,7 +23,7 @@ My research interests primarily focus on estimation theory and communication the
 * 2021 - 2022, Community Chair, IEEE Malaysia Sabah Subsection.
 * 2021, Finance Chair, 3rd IEEE International Conference on Artificial Intelligence in Engineering and Technology, 13-15 Sept. 2021.
 * 2020 - present, Member, Institute of Electrical and Electronics Engineers (IEEE).
-* 2010 - present, Gradute Member, Board of Engineering (BEM) Malaysia.
+* 2010 - present, Graduate Member, Board of Engineering (BEM) Malaysia.
 
 ## Leadership, Management, & Attended Courses
 * May 2020 - May 2024, Head of Electronic Engineering (Computer) Program, Faculty of Engineering, Universiti Malaysia Sabah.
@@ -33,8 +33,8 @@ My research interests primarily focus on estimation theory and communication the
 * Nov. 2010 - Oct. 2012, Member, Safety and Health Committee, Faculty of Engineering, Universiti Malaysia Sabah.
 * 11 - 12 Mar. 2013, E-Learning (Enhancing Teaching & Learning), Universiti Malaysia Sabah.
 * 05 - 06 Mar. 2013, Learning Outcome and Students Learning Time, Universiti Malaysia Sabah.
-* 24 Mac. - 25 Mac. 2011, Student Centered Learning Workshop, Universiti Malaysia Sabah.
-* 24 Oct. - 25 Oct. 2011, An Intellectual Endeavour: Academic Publishing For High Impact, Higher Education Leadership Academy, KPT, Le Meridien Kota KInabalu.
+* 24 Mac. - 25 Mac. 2011, Student-Centered Learning Workshop, Universiti Malaysia Sabah.
+* 24 Oct. - 25 Oct. 2011, An Intellectual Endeavour: Academic Publishing For High Impact, Higher Education Leadership Academy, KPT, Le Meridien Kota Kinabalu.
 * 12 - 17 Dec. 2010, IPTA Lecturer Leadership Excellence Course, KPT, Sg. Petani, Kedah.
 * 01 Nov. - 05 Nov. 2010, Customized MATLAB Fundamentals and FPGA Implementation with SIMULINK & System Generator, ActiveMedia Innovation Sdn Bhd. 
 * 18 - 19 Feb. 2010, Preparation of Syllabus and Course Portfolio, Universiti Malaysia Sabah.

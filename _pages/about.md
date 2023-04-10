@@ -17,13 +17,13 @@ I received my B.Eng. degree in electronic and computer engineering from the Univ
 My research interests primarily focus on estimation theory and communication theory, with an emphasis on applying these theories to solve <strong>positioning and tracking problems in wireless networks</strong>, both at theoretical and applied level.
 </p>
 
-## Profesional Activities & Memberships
-* Treasurer, IEEE Malaysia Sabah Subsection, 2023-2024.
-* Finance Chair, 4th IEEE International Conference on Artificial Intelligence in Engineering and Technology, 13-15 Sept. 2022.
-* Community Chair, IEEE Malaysia Sabah Subsection, 2021-2022.
-* Finance Chair, 3rd IEEE International Conference on Artificial Intelligence in Engineering and Technology, 13-15 Sept. 2021.
+## Leadership, Profesional Activities & Memberships
+* May 2020 - May 2024, Head of Electronic Engineering (Computer) Program, Faculty of Engineering, Universiti Malaysia Sabah.
+* 2023 - 2004, Treasurer, IEEE Malaysia Sabah Subsection.
+* 2022, Finance Chair, 4th IEEE International Conference on Artificial Intelligence in Engineering and Technology, 13-15 Sept. 2022.
+* 2021 - 2022, Community Chair, IEEE Malaysia Sabah Subsection.
+* 2021, Finance Chair, 3rd IEEE International Conference on Artificial Intelligence in Engineering and Technology, 13-15 Sept. 2021.
+* 2020 - present, Member, Institute of Electrical and Electronics Engineers (IEEE).
+* 2010 - present, Gradute Member, Board of Engineering (BEM) Malaysia.
 
-## Teaching Activities
 
-* KS10803 Differential Equations & Linear Algebra
-* KS22103 Probability and Random Processes

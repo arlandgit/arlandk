@@ -31,7 +31,7 @@ redirect_from:
   <p align="justify"> Job Description: provide technical solutions for biomedical electronic equipments, response to assets breakdown, carried out plan preventive maintenance, performed testing and commissioning, provide user training for critical equipment, as well as involved directly in managing the biomedical assets. 
 
 
-
+# Teaching Experience
 
 
 

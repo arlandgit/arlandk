@@ -23,10 +23,3 @@ redirect_from:
 * <p align="justify"> Dec. 2018 - May. 2021, UMS, Sihatmonitor - Wireless Oximeter For Continuous Patient Health Monitoring In Hospital Environment, RM20,000.00, as Co-PI.
 * <p align="justify"> 2012 - 2013, SLB UMS, Exploratory Study of Energy Efficient Wireless Sensor Networks for Environmental Monitoring in Sabah, RM10,000.00, as Co-PI.
 * <p align="justify"> Jan. 2012 - Sept. 2013, UMS, Adaptive Evolutionary Based Channel Assignment via Reinforcement Learning Algorithm, RM6,000.00, as Co-PI.
-  
-  	
-
-
-
-
-

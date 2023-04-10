@@ -11,10 +11,8 @@ redirect_from:
 ## External Grant
 * <p align="justify"> Sept. 2022 - Aug. 2024, FRGS KPT, Accurate Positioning Algorithm for Patient Tracking in Indoor Wireless Networks Using Adaptive Non-Gaussian Particle Filters, RM74,600.00, as PI.
 * <p align="justify"> Nov. 2020 - Oct. 2024, FRGS KPT, Handover Algorithm for Telecardiology Application in Dense Small Cells 5G Network using Dwelling Time Prediction Method, RM106,024.00, as Co-PI.
+* <p align="justify"> Jul. 2014 - Dec. 2016, FRGS KPT, Formulating A Novel Fitness Function Of Hybrid Ga-pso Based Network Coding For Vehicular Ad Hoc Network, RM95,400.00, as Co-PI.
 * <p align="justify"> Jan. 2013 - Dec. 2014, FRGS KPT, Formulating A New Fuzzy Inference Mechanism To Improve The Energy Efficient Hierarchical Based Wireless Sensor Networks For Precision Agriculture, RM75,000.00, as Co-PI.
-
-  
-  
 
 
 

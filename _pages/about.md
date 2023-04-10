@@ -15,7 +15,7 @@ I received my B.Eng. degree in electronic and computer engineering from the Univ
 ## Research Interests
 <p align="justify"> 
 My research interests primarily focus on estimation theory and communication theory, with an emphasis on applying these theories to solve <strong>positioning and tracking problems in wireless networks</strong>, both at theoretical and applied level.
-
+</p>
 
 ## Profesional Activities & Memberships
 * 2023 - 2024, Treasurer, IEEE Malaysia Sabah Subsection.

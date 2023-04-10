@@ -9,9 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
+* Apr. 2019 - present, Job Position: Senior Lecturer, Company: Universiti Malaysia Sabah 
+  <p align="justify"> Job Description: teaching, supervising, researching, publishing, consultancy, outreaching, and administrating.
+  
+  
+* Sept. 2014 - Apr. 2018, Pursuing Ph.D. in Automatic Control and System Engineering at the University of Sheffield, UK.
+  
 
-* Feb. 2010 - Jan. 2010, Job Position: Lecturer, Company: Universiti Malaysia Sabah 
-  <p align="justify"> Job Description: teaching, supervising, researching, publishing, consultancy, outreaching, administrating.
+* Feb. 2010 - Apr. 2019, Job Position: Lecturer, Company: Universiti Malaysia Sabah 
+  <p align="justify"> Job Description: teaching, supervising, researching, publishing, consultancy, outreaching, and administrating.
   
 
 * Sept. 2008 - Oct. 2009, Pursuing MSc. in Electronic Communication and Computer Engineering at the University of Nottingham, UK.

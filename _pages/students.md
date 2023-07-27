@@ -21,10 +21,10 @@ redirect_from:
 * 2022 - 2023, Bradly Sinusun, "Enhancing Farm Security with Microcontroller-Driven Automated Intrusion Detection System".
 * 2021 - 2022, Bill Acherllys Jailis, "IoT Based Beehive Monitoring System". Graduated 2022.
 * 2020 - 2021, Luthais Tseu Wen Zheng, "Wi-Fi based Indoor Positioning using Particle Filter Method". Graduated 2021.
-* 2020 - 2021, Choong Kok Wai, "Construction of WiFi Radio Map using Inverse Distance Weighting for an Indoor Positioning System". Graduated 2020.
+* 2020 - 2021, Choong Kok Wai, "Construction of WiFi Radio Map using Inverse Distance Weighting for an Indoor Positioning System". Graduated 2021.
 * 2019 - 2020, Zur Ain binti Mohd Arsad, "Modelling of Reliable Indoor Path Loss Model". Graduated 2020.
-* 2019 - 2020, Campbell Isaac Lenjau Tabib, "Robust Detection and Recognition of Vehicle Plate Numbers". Graduated 2019.
-* 2019 - 2020, Ruziana Binti Usin, "Incomplete Wifi RSS Fingerprint Map Construction using Interpolation Method". Graduated 2019.
+* 2019 - 2020, Campbell Isaac Lenjau Tabib, "Robust Detection and Recognition of Vehicle Plate Numbers". Graduated 2020.
+* 2019 - 2020, Ruziana Binti Usin, "Incomplete Wifi RSS Fingerprint Map Construction using Interpolation Method". Graduated 2020.
 * 2018 - 2019, Shany Lakisin, "Localisation of multiple nodes based on linear least squares method". Graduated 2019.
 * 2018 - 2019, Jackson Jastah, "State estimation for nonlinear system with extended Kalman filter". Graduated 2019.
 * 2018 - 2019, Jason Bin Jepinus, "An experiment to determine path loss propagation model in indoor environments". Graduated 2019.

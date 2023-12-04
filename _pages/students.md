@@ -15,10 +15,10 @@ redirect_from:
 * 2020 - present, Mark Irwin Goh, M.Eng., Co-Supervisor.
 
 ## Undergraduate Supervision (Final Year Project)
-* 2022 - 2023, Mohd Syafiq Daniel bin Wahab, "An Empirical Approach to Building Accurate WiFi Radio Maps using ZigBee Sensor Networks in Indoor Environments".
-* 2022 - 2023, Abdul Rahim bin Saidi, "Improving the Lifetime of Smart Agriculture Monitoring System using Solar Energy Harvesting".
-* 2022 - 2023, Sharifah Nurnida binti Sharif Abd Razak, "Automated Pesticide Mapping for Better Farm Monitoring and Health Assessment".
-* 2022 - 2023, Bradly Sinusun, "Enhancing Farm Security with Microcontroller-Driven Automated Intrusion Detection System".
+* 2022 - 2023, Mohd Syafiq Daniel bin Wahab, "IEEE 802.15.4 Signal Strength Evaluation in an Indoor Environment for Positioning Applications". Graduated 2023.
+* 2022 - 2023, Abdul Rahim bin Saidi, "Improving the Lifetime of Smart Agriculture Monitoring System using Solar Energy Harvesting". Graduated 2023.
+* 2022 - 2023, Sharifah Nurnida binti Sharif Abd Razak, "Enhancing Agricultural Land Management and Health Assessment through Automated Pesticide Mapping". Graduated 2023.
+* 2022 - 2023, Bradly Sinusun, "Enhancing Farm Security with Microcontroller-Driven Automated Intrusion Detection System". Graduated 2023.
 * 2021 - 2022, Bill Acherllys Jailis, "IoT Based Beehive Monitoring System". Graduated 2022.
 * 2020 - 2021, Luthais Tseu Wen Zheng, "Wi-Fi based Indoor Positioning using Particle Filter Method". Graduated 2021.
 * 2020 - 2021, Choong Kok Wai, "Construction of WiFi Radio Map using Inverse Distance Weighting for an Indoor Positioning System". Graduated 2021.

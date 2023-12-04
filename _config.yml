@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Profile"
 title_separator          : "-"
-name                     : &name "Aroland Kiring"
+name                     : &name "Aroland B Kiring"
 description              : &description "personal description"
 url                      : https://arlandgit.github.io/arlandk # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"

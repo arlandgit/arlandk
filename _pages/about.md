@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="justify"> 
-I am a Sabahan who grew up in a town of Telipok and received my B.Eng. degree in electronic and computer engineering from the University Malaysia Sarawak, and then pursued M.Sc. degree in electronic, communication, and computer engineering from the University of Nottingham, U.K., before completing my Ph.D in automatic control and system engineering from the University of Sheffield, U.K. I am currently a <strong>Senior Lecturer</strong> at the Faculty of Engineering, Universiti Malaysia Sabah and also the Head of the Electronic Engineering (Computer) Program. 
+I am a Sabahan who grew up in a town of Telipok and received my B.Eng. degree in electronic and computer engineering from the University Malaysia Sarawak, and then pursued M.Sc. degree in electronic, communication, and computer engineering from the University of Nottingham, U.K., before completing my Ph.D in automatic control and system engineering from the University of Sheffield, U.K. I am currently a <strong>Senior Lecturer</strong> at the [Faculty of Engineering](https://pages.github.com/), Universiti Malaysia Sabah and also the Head of the Electronic Engineering (Computer) Program. 
 </p>
 
 ## Research Interests

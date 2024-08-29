@@ -14,7 +14,7 @@ I am a Sabahan who grew up in a town of Telipok and received my B.Eng. degree in
 
 ## Research Interests
 <p align="justify"> 
-My research interests primarily focus on estimation theory and communication theory, with an emphasis on applying these theories to solve <strong>positioning and tracking problems in wireless networks</strong>, both at theoretical and applied level.
+My research interests primarily focus on estimation theory and communication theory, with an emphasis on applying these theories to solve positioning and tracking problems in wireless networks, both at theoretical and applied levels, as well as in the Internet of Things (IoT).
 </p>
 
 ## Profesional Activities & Memberships
@@ -27,7 +27,7 @@ My research interests primarily focus on estimation theory and communication the
 * 2010 - present, Graduate Member, Board of Engineering (BEM) Malaysia.
 
 ## Leadership, Management, & Attended Courses
-* May 2022 - May 2024, Head of Electronic Engineering (Computer) Program, Faculty of Engineering, Universiti Malaysia Sabah.
+* May 2022 - Present, Head of Electronic Engineering (Computer) Program, Faculty of Engineering, Universiti Malaysia Sabah.
 * Jan. 2019 - Dec. 2021, Advisor for Computer Engineering Club, Faculty of Engineering, Universiti Malaysia Sabah.
 * Dec. 2019 - Nov. 2021, Coordinator FKJ Website, Faculty of Engineering, Universiti Malaysia Sabah.
 * 04 July. 2013 - Member, 2013 Student Orientation Committee, Faculty of Engineering, Universiti Malaysia Sabah.
